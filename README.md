@@ -1,6 +1,6 @@
-# mattermost-refined
+# mattermost-experimental
 
-A brand-new Mattermost client focused on progressive enhancement.
+An experimental Mattermost client focused on technical enhancements.
 
 ## Technical Goals
 
